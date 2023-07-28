@@ -16,6 +16,6 @@ The time we greeted you.
 
 ## Example usage
 
-uses: sujithq/mydockeraction@v2
+uses: sujithq/mydockeraction@v0.1.0
 with:
   who-to-greet: 'Mona the Octocat'
